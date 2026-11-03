@@ -1,0 +1,1 @@
+print("Bot Prezão Free iniciado!")
