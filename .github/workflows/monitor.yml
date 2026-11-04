@@ -1,8 +1,8 @@
-name: Monitorar Prezao Free
+name: Monitorar Prezão Free
 
 on:
   schedule:
-- cron: "0 */4 * * *"
+    - cron: "0 */4 * * *"
   workflow_dispatch:
 
 jobs:
